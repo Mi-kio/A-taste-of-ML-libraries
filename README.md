@@ -2,7 +2,7 @@
 
 This repository has introductory programs of 9 ML libraries with definitions
 
-# 1. NUMPY
+# 1. [NUMPY](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/numpy.py)
 
 NumPy is a very popular python library for large multi-dimensional array and matrix processing. 
 
@@ -13,14 +13,14 @@ It is particularly useful for linear algebra, Fourier transform, and random numb
 High-end libraries like TensorFlow uses NumPy internally for manipulation of Tensors. 
 
 
-# 2. SCIPY
+# 2. [SCIPY](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/scipy.py)
 
 SciPy is a very popular library among Machine Learning enthusiasts as it contains different modules for optimization, linear algebra, integration and statistics.
 
 SciPy is also very useful for image manipulation. 
 
 
-# 3. SCIKIT LEARN
+# 3. [SCIKIT LEARN](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/scikit-learn.py)
 
 Scikit-learn is one of the most popular ML libraries for classical ML algorithms.
 
@@ -31,7 +31,7 @@ Scikit-learn supports most of the supervised and unsupervised learning algorithm
 Scikit-learn can also be used for data-mining and data-analysis, which makes it a great tool who is starting out with ML. 
 
 
-# 4. THEANO
+# 4. [THEANO](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/Theano.py)
 
 Theano is a popular python library that is used to define, evaluate and optimize mathematical expressions involving multi-dimensional arrays in an efficient manner. 
 
@@ -41,7 +41,7 @@ It is extensively used for unit-testing and self-verification to detect and diag
 
 
 
-# 5. TENSORFLOW
+# 5. [TENSORFLOW](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/Tensorflow.py)
 
 TensorFlow is a very popular open-source library for high performance numerical computation developed by the Google Brain team in Google. 
 
@@ -61,7 +61,7 @@ It can run seamlessly on both CPU and GPU.
 Keras makes it really for ML beginners to build and design a Neural Network. One of the best thing about Keras is that it allows for easy and fast prototyping.
 
 
-# 7. PYTORCH
+# 7. [PYTORCH](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/Pytorch.py)
 
 PyTorch is a popular open-source Machine Learning library for Python based on Torch, which is an open-source Machine Learning library which is implemented in C with a wrapper in Lua. 
 
@@ -70,7 +70,7 @@ It has an extensive choice of tools and libraries that supports on Computer Visi
 It allows developers to perform computations on Tensors with GPU acceleration and also helps in creating computational graphs. 
 
 
-# 8. PANDAS
+# 8. [PANDAS](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/Pandas.py)
 
 Pandas is a popular Python library for data analysis.
 
@@ -81,7 +81,7 @@ It provides high-level data structures and wide variety tools for data analysis.
 It provides many inbuilt methods for groping, combining and filtering data. 
 
 
-# 9. MATPLOTLIB
+# 9. [MATPLOTLIB](https://github.com/Mi-kio/A-taste-of-ML-libraries/blob/main/Matplotlib.py)
 
 Matplotlib is a very popular Python library for data visualization.
 
